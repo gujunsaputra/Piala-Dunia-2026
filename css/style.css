@@ -5,24 +5,26 @@ box-sizing:border-box;
 }
 
 body{
-font-family:Arial,Helvetica,sans-serif;
-background:#f5f7fa;
-color:#222;
-line-height:1.6;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f4f4f4;
+    color: #333;
 }
 
 header{
-background:#0057b8;
-color:white;
-padding:25px;
-text-align:center;
+    background: #0066cc;
+    color: white;
+    padding: 20px;
+    text-align: center;
 }
 
 nav{
-background:#003f87;
-padding:15px;
-text-align:center;
+    background: #004a99;
+    padding: 12px;
+    text-align: center;
 }
+
+/* lanjutkan semua CSS sampai footer */
 
 nav a{
 color:white;
